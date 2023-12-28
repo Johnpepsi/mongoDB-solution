@@ -10,6 +10,10 @@ I made this repo for my future reference when running a server and implementing 
 ![image](https://github.com/Johnpepsi/mongoDB-solution/assets/112512965/6c542a00-cd5c-497a-abae-0eae10b9b214)
 
 * Once successfully installed both of the folder, use the BASH Terminal to run the Mongosh spontaneously when running a database on the server.
+## Here is the command: 
+* alias mongod="/c/Program\ files/MongoDB/Server/7.0/bin/mongod.exe"
+* alias mongo="/c/Program\ Files/MongoDB/Server/7.0/bin/mongo.exe"
+* Make sure to change the version as I currently have 7.0 when writing this document. This version would probably change in the future.
 
 ## Result that should get after running MongoDB. 
 * Logged in as milagrosapparel@gmail.com and then utilized password was 123456, see the results from database.
